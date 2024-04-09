@@ -75,5 +75,5 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruhkennedy&theme=tokyonight" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=guruhkennedy&theme=algolia&show_icons=true" align="center" /></div>
 <br />
