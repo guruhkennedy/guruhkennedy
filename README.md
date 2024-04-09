@@ -75,5 +75,5 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=guruhkennedy&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=guruhkennedy&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true" align="center" /></div>
 <br />
